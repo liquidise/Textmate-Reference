@@ -11,9 +11,9 @@ simply a listing of commands I use the most and find the most helpful.
 ## Getting Around
 
 ### Arrows
-**Alt + (&larr; &rarr;)**: Move a single word at a time
+**Alt + (&larr; &rarr;)**: Move a single word
 
-**Ctrl + (&larr; &rarr;)**: Move to next word or capitalization switch
+**Ctrl + (&larr; &rarr;)**: Move a single word or capitalization switch
 
 **Alt + (&uarr; &darr;)**: Move to the next line with a letter/number at this column (*a bit strange*)
 
