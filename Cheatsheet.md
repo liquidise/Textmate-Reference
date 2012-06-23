@@ -13,9 +13,9 @@ simply a listing of commands I use the most and find the most helpful.
 ### Arrows
 **Alt + (&larr; &rarr;)**: Move a single word at a time
 
-**Alt + (&uarr; &darr;)**: Move to the next like with a letter/number at this column (*a bit strange*)
-
 **Ctrl + (&larr; &rarr;)**: Move to next word or capitalization switch
+
+**Alt + (&uarr; &darr;)**: Move to the next line with a letter/number at this column (*a bit strange*)
 
 **Ctrl + (&uarr; &darr;)**: Scroll the code window
 
