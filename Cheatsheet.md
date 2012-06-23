@@ -1,4 +1,4 @@
-# TextMate Cheat sheet
+# TextMate Cheat Sheet
 
 This is meant to be a quick reference and beginners guide to using TextMate. It is organized
 in an manner that I hopes help to illustrate the patterns of multiple commands, as well as
