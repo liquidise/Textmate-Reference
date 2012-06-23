@@ -46,8 +46,6 @@ simply a listing of commands I use the most and find the most helpful.
 **Ctrl + Backspace**: Same as above but will stop at capitalization changes as well
 
 ### The Enter Key
-**Enter**: Insert a newline character
-
 **Cmd + Enter**: Insert a newline at the end of the current line
 
 **Alt + Enter**: Insert a newline character and do not indent the following line
