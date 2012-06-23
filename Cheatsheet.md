@@ -38,6 +38,13 @@ simply a listing of commands I use the most and find the most helpful.
 
 ## Coding Faster
 
+### The Backspace Key
+**Cmd + Backspace**: Delete all characters to the left of the cursor
+
+**Alt + Backspace**: Delete to the start of the current word
+
+**Ctrl + Backspace**: Same as above but will stop at capitalization changes as well
+
 ### The Enter Key
 **Enter**: Insert a newline character
 
